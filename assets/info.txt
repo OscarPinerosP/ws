@@ -5,3 +5,6 @@ Esta es una edición desde vs code en local
 De nuevo esta es una edicion del repo clonado en una carpeta nueva
 
 Esta es una actualizacion de un repo que fue clonado
+
+Esta es una segunda actualizacion de un repo clonado en local y despues con 
+el comando git commit -a -m "commit nuevo"
