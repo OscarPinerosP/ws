@@ -10,3 +10,5 @@ Esta es una segunda actualizacion de un repo clonado en local y despues con
 el comando git commit -a -m "commit nuevo"
 
 repo clonado con el comando git
+
+git commit -a -m “Quinto commit desde la Lina de comando” 
