@@ -14,3 +14,5 @@ repo clonado con el comando git
 git commit -a -m “Quinto commit desde la Lina de comando” 
 
 esta cambio fue realizado desde la pagina web de github
+
+otro cambio realizado directamente desde la pagina de de git
