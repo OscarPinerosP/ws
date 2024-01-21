@@ -1,3 +1,5 @@
 En esta carpeta va a estar todas las imagenes del sitio web
 Esta es una edicion desde github
 Esta es una edición desde vs code en local
+
+De nuevo esta es una edicion del repo clonado en una carpeta nueva
